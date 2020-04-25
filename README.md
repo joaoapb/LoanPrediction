@@ -17,8 +17,8 @@ This competition is evaluated on the mean absolute error (MAE):
 where
 
 * n is the number of rows
-* $\yhat_i$ is the predicted loss
-* $y_i$ is the actual loss
+* <img src="https://render.githubusercontent.com/render/math?math=\yhat_i"> is the predicted loss
+* <img src="https://render.githubusercontent.com/render/math?math=y_i"> is the actual loss
 
 ## Data Introduction
 
