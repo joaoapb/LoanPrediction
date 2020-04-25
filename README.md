@@ -10,14 +10,15 @@ This competition is sponsored by researchers at Imperial College London.
 
 ## Evaluation
 
-This competition is evaluated on the mean absolute error (MAE):
-$$\textrm{MAE} = \frac{1}{n} \sum_{i=1}^n | y_i - \hat{y}_i |,$$
+This competition is evaluated on the mean absolute error (MAE): 
+
+<img src="https://render.githubusercontent.com/render/math?math=\textrm{MAE} = \frac{1}{n} \sum_{i=1}^n | y_i - \hat{y}_i|">
 
 where
 
-. n is the number of rows
-. $\yhat_i$ is the predicted loss
-. $y_i$ is the actual loss
+* n is the number of rows
+* $\yhat_i$ is the predicted loss
+* $y_i$ is the actual loss
 
 ## Data Introduction
 
